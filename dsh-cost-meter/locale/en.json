@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Usage cost meter",
+    "description": "Shows token speed and spend above the composer, with per-turn usage, live unit prices and account balance."
+  }
+}

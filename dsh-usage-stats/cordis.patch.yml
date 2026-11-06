@@ -1,0 +1,6 @@
+- insert:
+    - id: usage-stats
+      name: '@local/dsh-usage-stats'
+      config:
+        timeZone: Asia/Shanghai
+        backfill: true
