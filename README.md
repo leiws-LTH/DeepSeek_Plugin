@@ -1,4 +1,4 @@
-# DSH 插件集（dsh-plugins）
+﻿# DSH 插件集（dsh-plugins）
 
 两个自用的 DeepSeek Harness 插件，目标是补上 Harness 默认没有的两件事：
 **单次对话花了多少钱**、**本机每天/每个模型用了多少 token**。
@@ -42,7 +42,7 @@
 ## 从 Git 安装
 
 ```bash
-git clone <仓库地址> dsh-plugins
+git clone https://github.com/leiws-LTH/DeepSeek_Plugin.git dsh-plugins
 ```
 
 然后按上面的方式，从 clone 出来的目录安装两个插件。之后更新只需要：
